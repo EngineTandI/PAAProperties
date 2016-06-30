@@ -7,8 +7,14 @@
 }
 
 .row {
-    margin: 0px;
+  margin: 0px;
 }
+
+.btn-large {
+  margin-top: 20px;
+  background-color: #74c09a;
+}
+
 
 h5 {
   color: #ffffff;
@@ -24,6 +30,6 @@ p {
   margin: 0px;
 }
 
-i {
-  margin-top: 1.5rem;
+button {
+  margin-left: 0px; 
 }
