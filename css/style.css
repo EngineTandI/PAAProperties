@@ -1,0 +1,29 @@
+.nav-wrapper {
+  background: #74c09a;
+}
+
+.price {
+  background: #74c09a;
+}
+
+.row {
+    margin: 0px;
+}
+
+h5 {
+  color: #ffffff;
+  padding: 10px 0px 10px 0px;
+  margin: 0px;
+}
+
+h6 {
+  font-size: 1.25rem;
+}
+
+p {
+  margin: 0px;
+}
+
+i {
+  margin-top: 1.5rem;
+}
